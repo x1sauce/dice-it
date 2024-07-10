@@ -20,4 +20,4 @@ The dice will automatically roll when the page loads.
 ### View the outcome displayed on the screen:
 - If Player 1's dice roll is higher, the message "🚩 Player 1 Wins!" will appear.
 - If Player 2's dice roll is higher, the message "Player 2 Wins! 🚩" will appear.
-- If both dice rolls are the same, the message "Draw!" will appear.
+- The message "Draw!" will appear if both dice rolls are the same.
